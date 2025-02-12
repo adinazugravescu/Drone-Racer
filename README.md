@@ -61,14 +61,22 @@ An arrow indicator is displayed above the drone, pointing toward the next checkp
 The arrow dynamically rotates based on the drone's orientation to ensure clear navigation.
 
 # Controls
-W/S – Move forward/backward
-A/D – Move left/right
-Q/E – Move up/down
-Arrow Left/Right – Rotate the drone on the Y-axis
-Y/H – Move forward/backward (alternative control mode)
-G/J – Move left/right (alternative control mode)
-T/U – Move up/down (alternative control mode)
-Arrow Up/Down – Zoom in/out
+
+W/S â€“ Move forward/backward
+
+A/D â€“ Move left/right
+
+Q/E â€“ Move up/down
+
+Arrow Left/Right â€“ Rotate the drone on the Y-axis
+
+Y/H â€“ Move forward/backward (alternative control mode)
+
+G/J â€“ Move left/right (alternative control mode)
+
+T/U â€“ Move up/down (alternative control mode)
+
+Arrow Up/Down â€“ Zoom in/out
 
 # Camera Mode
 
